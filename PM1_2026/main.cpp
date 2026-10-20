@@ -6,7 +6,9 @@ int main()
     // ↓おまじない。消さないように
     system("chcp 65001 > nul"); // コンソールをUTF-8にする設定
 
-    printf("HEllo World!!!!\n");
+    printf("Hello World!!!!\n");
+
+    printf("Hello branch!!!!\n");
 
     return 0;
 }
